@@ -1,6 +1,8 @@
 # xplore
 
-this package is to explore variable in a dataset
+this package is to explore variable in a dataset.
+
+this custom package was built as for requirement of Advanced Machine Learning Application AT 1
 
 ## Installation
 
